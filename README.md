@@ -4,5 +4,6 @@ It uses AWS and ReactJS.
 
 ## Technologies used
 
+Chocolatey
 Git and gitub
 SSH
