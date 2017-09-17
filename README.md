@@ -7,3 +7,7 @@ It uses AWS and ReactJS.
 Chocolatey
 Git and gitub
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
