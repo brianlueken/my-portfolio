@@ -20,12 +20,12 @@
     rgb(236, 240, 241)
 */
 
-.background--skyBlue {
-  background-color: rgb(52, 152, 219);
+.background--darkBlue {
+  background-color: rgb(0, 0, 85);
 }
 
-.color--skyBlue {
-  color: rgb(52, 152, 219);
+.color--darkBlue {
+  color: rgb(0, 0, 85);
 }
 
 .color--cloud {
