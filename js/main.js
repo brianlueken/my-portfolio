@@ -12,18 +12,18 @@ const myWork = [
     }
   },
   {
-    'title': "Work Example 3",
-    'image': {
-      'desc': "example screenshot of a project involving cats",
-      'src': "images/example3.png",
-      'comment': ""
-    }
-  },
-  {
     'title': "Work Example 2",
     'image': {
       'desc': "example screenshot of a project involving chemistry",
       'src': "images/example2.png",
+      'comment': ""
+    }
+  },
+  {
+    'title': "Work Example 3",
+    'image': {
+      'desc': "example screenshot of a project involving cats",
+      'src': "images/example3.png",
       'comment': ""
     }
   }

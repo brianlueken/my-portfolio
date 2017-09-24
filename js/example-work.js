@@ -19,7 +19,7 @@ class ExampleWork extends React.Component {
 
 class ExampleWorkBubble extends React.Component {
   render () {
-let exaample = this.props.example;
+let example = this.props.example;
     return (
       <div className="section__exampleWrapper">
         <div className="section__example">
@@ -38,3 +38,4 @@ let exaample = this.props.example;
   }
 }
 export default ExampleWork;
+export { ExampleWorkBubble };
